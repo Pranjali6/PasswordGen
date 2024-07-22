@@ -11,7 +11,7 @@ Features:
 4) Copy to Clipboard: One-click button to copy the generated password to the clipboard for easy use.
    
 
-Tech Stack
+Tech Stack:
 
 React: A JavaScript library for building user interfaces.
 

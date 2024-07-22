@@ -1,7 +1,9 @@
-Overview
+Overview:
+
 This React-based Password Generator creates strong, customizable passwords. Users can specify password length and include numbers and special characters. The project demonstrates the use of React hooks such as useState, useCallback, useEffect, and useRef for state management and DOM interactions.
 
-Features
+Features:
+
 Dynamic Password Length: Adjust the password length using a range slider (6 to 50 characters).
 Include Numbers: Option to include numeric characters in the generated password.
 Include Special Characters: Option to include special characters (e.g., !@#$%^&*-_+=[]{}~`) in the generated password.

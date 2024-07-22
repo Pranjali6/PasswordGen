@@ -12,6 +12,7 @@ Features:
    
 
 Tech Stack
+
 React: A JavaScript library for building user interfaces.
 
 Tailwind: For styling the application.
